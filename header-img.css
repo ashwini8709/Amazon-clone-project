@@ -1,0 +1,28 @@
+/* image header or sliderrr of the page */
+
+.img-header{
+    background-image: url(img-amazon.jpg);
+    background-size: cover;
+    height: 400px;
+    display: flex;
+   
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+.img-header-text{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 25px;
+   
+}
+.img-header-text a{
+    color: #007185;
+    width: 100%;
+}
