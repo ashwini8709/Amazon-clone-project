@@ -72,3 +72,93 @@ footer{
 .footer-text p{
     margin: 20px;
 }
+
+/* panel3 */
+
+.foot-panel3{
+    background-color: #232f3e;
+    margin-top: 0.8px;
+    height: 110px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+.bgc-logo{
+    height: 50px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("amazon_logo.png");
+    background-repeat: no-repeat;
+    margin-right: 100px;
+    background-size: cover;
+}
+.lang{
+    color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+    height: 30px;
+    width: 120px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lang p{
+    margin-left: 12px;
+}
+
+
+/* panel5 */
+
+.panel5{
+    background-color:#131a22;
+    height: 400px; 
+}
+.panel5a{
+  
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 80%;
+    margin-left: 150px;
+
+}
+.panel5 p{
+    color: #dddddd;
+    font-size: 0.85rem;
+}
+.panel5b a{
+color: #999999;
+display: flex;
+width: 120px;
+justify-content: center;
+align-items: center;
+color: #999999;
+font-size: 0.85rem;
+}
+
+.panel5b{
+    height: 120px;
+    width: 100x;
+    margin: 30px;
+    margin-right: 30px;
+} 
+.panel-5-a{
+    margin-bottom: -70px;
+}
+.copyrightFooter{
+    background-color: #131a22;
+    color:#dddddd;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+
+
